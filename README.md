@@ -79,6 +79,6 @@ e. There was no relationship between graduation rates and selectivity
    
 #### NEXT STEPS/FUTURE IMPROVEMENTS:
 
-1.Evaluate college retention rates 
-2.Investigate wages and graduation by field of study 
-3.Investigate amount of student debt
+1. Evaluate college retention rates 
+2. Investigate wages and graduation by field of study 
+3. Investigate amount of student debt
