@@ -42,7 +42,7 @@ Jupyter Notebook: https://github.com/katherineokray/project-one/blob/main/group_
 UTA-VIRT-DATA-PT-04-2023-U-LOLC
 
 ### Approach to Data Analysis 
-##### Step 1: 
+#### Step 1: 
 
 Read in raw data from Bureau of Labor Statistics (2021 wage data) Convert wage data to numeric Remove commas Replaced “>=208000” with “208000” in wage column. This affected 18 entries.
 
