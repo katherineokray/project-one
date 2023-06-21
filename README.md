@@ -68,14 +68,14 @@ e. There was no relationship between graduation rates and selectivity
 
 1. BLS: 
 
-- is survey data
-- Median Wages do not indicate “entry-level” or more experience in the field. 
+   - is survey data
+   - Median Wages do not indicate “entry-level” or more experience in the field. 
 
 2. IPEDS:
 
-- is survey data
-- Not all schools report; school that do report do not always report all data.
-- The reason is unknown for students not graduating from specific institutions.
+   - is survey data
+   - Not all schools report; school that do report do not always report all data.
+   - The reason is unknown for students not graduating from specific institutions.
    
 #### NEXT STEPS/FUTURE IMPROVEMENTS:
 
