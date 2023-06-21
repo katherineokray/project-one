@@ -25,11 +25,11 @@ Is there a relationship between institutional characteristics (size, type, selec
 
 We used the dataset from 'Integrated Post Secondary Education Data System'(IPEDS).The data listed information on 1367 four year degree granting institutions in the United States. We used different variables for our analysis including:
 
--Percentage of students admitted in 2015 who had graduated by 2021.
--Type of institution(Public/Private).
--Total Cost.
--Total Enrollment.
--Percent Admitted
+- Percentage of students admitted in 2015 who had graduated by 2021.
+- Type of institution(Public/Private).
+- Total Cost.
+- Total Enrollment.
+- Percent Admitted
 
 Major sources of the datasets: - Bureau of Labor Statistics - Integrated Post Secondary Education Data System (IPEDS)
 
